@@ -1,0 +1,5 @@
+com.example.atlas.test.app-core-1.6.1-0 C:\Users\King Sunil\.gradle\caches\8.11.1\transforms\c9386a3b749cb2d4773a2f2653183268\transformed\core-1.6.1\res
+com.example.atlas.test.app-androidTest-1 C:\Users\King Sunil\AndroidStudioProjects\Atlas\app\build\generated\res\resValues\androidTest\debug
+com.example.atlas.test.app-mergeDebugAndroidTestResources-2 C:\Users\King Sunil\AndroidStudioProjects\Atlas\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.atlas.test.app-mergeDebugAndroidTestResources-3 C:\Users\King Sunil\AndroidStudioProjects\Atlas\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.atlas.test.app-debugAndroidTest-4 C:\Users\King Sunil\AndroidStudioProjects\Atlas\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

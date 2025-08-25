@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_light_background">#FAFDFB</color>
+    <color name="md_theme_light_onBackground">#191C1B</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#00201C</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondaryContainer">#051F1C</color>
+    <color name="md_theme_light_onSurface">#191C1B</color>
+    <color name="md_theme_light_primary">#006A60</color>
+    <color name="md_theme_light_primaryContainer">#74F8E3</color>
+    <color name="md_theme_light_secondary">#4A635F</color>
+    <color name="md_theme_light_secondaryContainer">#CDE8E3</color>
+    <color name="md_theme_light_surface">#FAFDFB</color>
+    <string name="app_name">Atlas Demo</string>
+    <string name="back">Back</string>
+    <string name="detail_loaded">Detail loaded via use case + repository (network fallback).</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="loading">Loading…</string>
+    <string name="search_hint">Search characters…</string>
+    <style name="Theme.Atlas" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item> 
+        <item name="android:navigationBarColor">@android:color/transparent</item> 
+        <item name="android:windowTranslucentStatus">true</item> 
+    </style>
+    <style name="Theme.Atlas2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item> 
+        <item name="android:navigationBarColor">@android:color/transparent</item> 
+        <item name="android:windowTranslucentStatus">true</item> 
+    </style>
+</resources>

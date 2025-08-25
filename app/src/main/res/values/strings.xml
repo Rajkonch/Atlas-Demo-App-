@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Atlas Demo</string>
+    <string name="search_hint">Search characters…</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="detail_loaded">Detail loaded via use case + repository (network fallback).</string>
+    <string name="back">Back</string>
+    <string name="loading">Loading…</string>
+</resources>

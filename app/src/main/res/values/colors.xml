@@ -1,0 +1,18 @@
+<resources>
+    <!-- Light theme -->
+    <color name="md_theme_light_primary">#006A60</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#74F8E3</color>
+    <color name="md_theme_light_onPrimaryContainer">#00201C</color>
+
+    <color name="md_theme_light_secondary">#4A635F</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#CDE8E3</color>
+    <color name="md_theme_light_onSecondaryContainer">#051F1C</color>
+
+    <color name="md_theme_light_background">#FAFDFB</color>
+    <color name="md_theme_light_onBackground">#191C1B</color>
+
+    <color name="md_theme_light_surface">#FAFDFB</color>
+    <color name="md_theme_light_onSurface">#191C1B</color>
+</resources>

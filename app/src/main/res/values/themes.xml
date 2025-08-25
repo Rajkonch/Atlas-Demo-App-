@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Atlas2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item> <!-- Make status bar transparent -->
+        <item name="android:navigationBarColor">@android:color/transparent</item> <!-- Optional: Match navigation bar -->
+        <item name="android:windowTranslucentStatus">true</item> <!-- Ensure status bar is translucent -->
+    </style>
+</resources>
